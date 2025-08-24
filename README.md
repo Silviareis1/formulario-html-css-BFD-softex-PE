@@ -23,8 +23,8 @@ Softex PE
 
 ## Links 🔗
 
-- [Repositório no GitHub](https://github.com/seu-usuario/seu-repositorio)
-- [Página do projeto no GitHub Pages](https://seu-usuario.github.io/seu-repositorio)
+- [Repositório no GitHub](https://github.com/Silviareis1/formulario-html-css-BFD-softex-PE)
+- [Página do projeto no GitHub Pages](https://silviareis1.github.io/formulario-html-css-BFD-softex-PE/)
 
 ## Captura do Projeto 📸
 
